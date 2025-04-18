@@ -28,7 +28,6 @@ class Program
         var car2RaceTask = Race(car2, stopwatch);
         var car3RaceTask = Race(car3, stopwatch);
 
-        var input = "";
         var cts = new CancellationTokenSource();
         var inputTask = Task.Run(() => HandleInputAsync(new List<Car> { car1, car2, car3 }, cts.Token));
 
