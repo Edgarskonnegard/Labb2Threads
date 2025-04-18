@@ -1,0 +1,14 @@
+/Users/edgarskonnegard/Labb2Threads/bin/Debug/net9.0/Labb2Threads
+/Users/edgarskonnegard/Labb2Threads/bin/Debug/net9.0/Labb2Threads.deps.json
+/Users/edgarskonnegard/Labb2Threads/bin/Debug/net9.0/Labb2Threads.runtimeconfig.json
+/Users/edgarskonnegard/Labb2Threads/bin/Debug/net9.0/Labb2Threads.dll
+/Users/edgarskonnegard/Labb2Threads/bin/Debug/net9.0/Labb2Threads.pdb
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.AssemblyInfoInputs.cache
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.AssemblyInfo.cs
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.csproj.CoreCompileInputs.cache
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.dll
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/refint/Labb2Threads.dll
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.pdb
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/Labb2Threads.genruntimeconfig.cache
+/Users/edgarskonnegard/Labb2Threads/obj/Debug/net9.0/ref/Labb2Threads.dll
